@@ -2,8 +2,8 @@
 Wireframes and User Stories for Learn X in Y Weeks
 
 ## Team Members 
-Jaehee (Jane) Chung
-Dillon McCoy 
+Jaehee (Jane) Chung, 
+Dillon McCoy, 
 Shrikant Pandhare 
 
 ## App Description 
