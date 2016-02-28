@@ -10,7 +10,7 @@ Shrikant Pandhare
 Learn X in Y weeks is an app creation platform for trainers and teachers who have a course to teach/train X skill in Y weeks.
 They can now offer their courses on mobile with a click of few buttons!
 
-Our team is building an example app for an example client. This example client is a fitness trainer who has a course that teaches ____ in Y weeks. The primary user of the app will be our client's students. The student can login to the app and take the course week by week. The app has a profile page where the user can see their progress and edit their settings. On the main page, the user can view the courses broken into Y weeks. By clicking on a specific week, a detailed page with videos, instructions, and description is shown. User can use the hamburger menu to navigate through the course and profile page. User can also search for TAs, trainers, etc. near by. The search results for this will be shown in a map view.
+Our team is building an example app for an example client. This example client is a fitness trainer who has a course that teaches X in Y weeks. The primary user of the app will be our client's students. The student can login to the app and take the course week by week. The app has a profile page where the user can see their progress and edit their settings. On the main page, the user can view the courses broken into Y weeks. By clicking on a specific week, a detailed page with videos, instructions, and description is shown. User can use the hamburger menu to navigate through the course and profile page. User can also search for TAs, trainers, etc. near by. The search results for this will be shown in a map view.
 
 ## User Stories
 MVP
