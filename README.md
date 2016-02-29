@@ -17,8 +17,8 @@ MVP
 
 * [ ] User can login to the course.
 * [ ] User can view a list of course materials broken down into weeks.
-  * [ ] User can see a privew of the week's material with an image and title.
-  * [ ] User can identity the week they are on by UI/UX difference on the current week.
+  * [ ] User can see a preview of the week's material with an image and title.
+  * [ ] User can identify the week they are on by UI/UX difference on the current week.
 * [ ] User can tap on a week to see a detailed view of that material.
   * [ ] User can watch the week's video, follow through instructions, read description on this page.
   * [ ] User can track their progress on this page.
@@ -34,4 +34,5 @@ Optional
 * [ ] User can see a map or a list view for the trainer search results.
 * [ ] User can see the map location on the trainer profile details page.
 * [ ] User can access multiple courses using the same app.
+* [ ] User can search for content (text, video titles) within the app
 
